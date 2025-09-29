@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-v3.11+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.32+-red.svg)
 ![LangChain](https://img.shields.io/badge/langchain-latest-green.svg)
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://document-rag-system.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://advanced-document-rag-assistant.streamlit.app/)
 
 ## 🎯 Overview
 
@@ -18,7 +18,7 @@ Upload PDFs, Word, Markdown, CSV, HTML, or text files, and the app will:
 
 ## 🌐 Live Demo
 
-Try it out here: [Document RAG Assistant Live Demo](https://document-rag-system.streamlit.app)
+Try it out here: [Document RAG Assistant Live Demo](https://advanced-document-rag-assistant.streamlit.app/)
 
 ## ✨ Features
 
