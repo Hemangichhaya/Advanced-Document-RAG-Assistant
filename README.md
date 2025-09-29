@@ -5,9 +5,6 @@
 ![Python](https://img.shields.io/badge/python-v3.11+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.32+-red.svg)
 ![LangChain](https://img.shields.io/badge/langchain-latest-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-[![Issues](https://img.shields.io/github/issues/ZohaibCodez/document-qa-rag-system.svg)](https://github.com/ZohaibCodez/document-qa-rag-system/issues)
-![Last Commit](https://img.shields.io/github/last-commit/ZohaibCodez/document-qa-rag-system)
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://document-rag-system.streamlit.app)
 
 ## 🎯 Overview
@@ -56,8 +53,8 @@ Try it out here: [Document RAG Assistant Live Demo](https://document-rag-system.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ZohaibCodez/document-qa-rag-system.git
-cd document-qa-rag-system
+git clone https://github.com/Hemangichhaya/Advanced-Document-RAG-Assistant.git
+cd Advanced-Document-RAG-Assistant
 ```
 
 ### 2. Install Dependencies
@@ -273,9 +270,6 @@ docker run -p 8501:8501 -v $(pwd):/app document-rag-dev
 - Reduce document size or restart the application
 - For Docker: increase memory limits
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -284,15 +278,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Google AI](https://ai.google.dev/) for Gemini API access
 - [FAISS](https://github.com/facebookresearch/faiss) for efficient vector similarity search
 - [PyPDFLoader](https://python.langchain.com/docs/modules/data_connection/document_loaders/integrations/pypdf) for PDF processing
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-- Open an [Issue](https://github.com/ZohaibCodez/document-qa-rag-system/issues)
-- Check existing issues for solutions
-- Review the troubleshooting section above
-- Contact: [itxlevicodez@gmail.com](mailto:itxlevicodez@gmail.com)
 
 ---
 
