@@ -18,7 +18,7 @@ Upload PDFs, Word, Markdown, CSV, HTML, or text files, and the app will:
 
 ## 🌐 Live Demo
 
-Try it out here: [Document RAG Assistant Live Demo](https://advanced-document-rag-assistant.streamlit.app/)
+Try it out here: [Document RAG Assistant Live Demo](https://advanced-document-rag-assistant-uhwf6v6bkdsbzpwqmrzyvf.streamlit.app/)
 
 ## ✨ Features
 
